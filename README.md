@@ -3,5 +3,6 @@ making a personale boat assisitant who can do a few works for me like search thi
 it can even play music or videos on youtube or can open your favourite ide but it is still under development so you might not find some function or can also have some bugs.
 but i am constantly working on it to make it better one.
 i hope you will like it and it might help you in some project if you are student.
+And its name is PRAJNA which means intelligence in SANSKRIT.
 that's all.
 thanks for reading tilll here.
